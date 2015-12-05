@@ -34,6 +34,7 @@ find_library (LIBCAPSTONE_LIBRARIES
       /opt/local/lib
       /sw/lib
       /home/ska/local/lib
+      /usr/lib64
       ENV LIBRARY_PATH   # PATH and LIB will also work
       ENV LD_LIBRARY_PATH)
 
